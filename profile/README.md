@@ -2,7 +2,7 @@
 
 This is the official GitHub profile for the **Wizard Bridge** project.
 
-## About Wizard Bridge 🌉
+## About Wizard Bridge
 
 **Wizard Bridge** is an innovative decentralized finance (DeFi) solution designed to enable secure and seamless interchain transfers between different blockchain networks. Our technology is built with a primary focus on interoperability, aiming to bridge the gap between diverse blockchains, thereby unlocking the full potential of the DeFi space.
 
